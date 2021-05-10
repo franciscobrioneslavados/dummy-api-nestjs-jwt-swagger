@@ -1,7 +1,7 @@
 {
   "name": "nestjs-template",
   "version": "0.0.1",
-  "description": "a NestJS template with JWT",
+  "description": "a NestJS template with JWT Swagger",
   "author": "Francisco Javier Briones Lavados",
   "private": true,
   "license": "UNLICENSED",
